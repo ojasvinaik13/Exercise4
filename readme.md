@@ -1,2 +1,2 @@
 # MY GAME
-This is game using pygame module in python
+This is a game made using pygame module in python.
